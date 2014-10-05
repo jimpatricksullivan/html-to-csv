@@ -1,0 +1,11 @@
+{
+  "name": "web-page-to-csv-converter",
+  "description": "",
+  "version": "0.0.1",
+  "repository": "",
+  "dependencies": {
+    "cheerio": "*",
+    "underscore": "*",
+    "nice-json2csv": "*"
+  }
+}
